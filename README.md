@@ -9,6 +9,6 @@ Then Run the sender.py by running the following `python proxy.py <server_ip>` in
 
 * replace <server_ip> with the ip address of the computer running the start_server.py
 
-The server is listening on port 8080 by default.
+The server is listening on port `8080` by default.
 
-The proxy server is listening on port 80 by default.
+The proxy server is listening on port `80` by default.
